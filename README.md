@@ -1,6 +1,6 @@
 # ng-mations | Animations in Angular quick and easy
 
-Make your Angular application shine with quick and simply to use animation wrapper components.
+Make your Angular application shine with quick and simply to use animation wrapper components. Do you feel like you are repeating yourself when you are writing animations in Angular? This library is for you. It provides a set of wrapper components that you can use to quickly and easily add animations to your Angular application.
 
 ## Development server
 
